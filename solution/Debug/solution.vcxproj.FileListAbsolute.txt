@@ -1,0 +1,2 @@
+F:\git\LittleBookOfSemaphores\solution\Debug\solution.exe
+F:\git\LittleBookOfSemaphores\solution\Debug\solution.pdb
