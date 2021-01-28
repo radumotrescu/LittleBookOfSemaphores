@@ -21,6 +21,12 @@
     <ClCompile Include="Mutex.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Multiplex.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Barrier.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Semaphore.h">
